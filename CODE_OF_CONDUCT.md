@@ -1,5 +1,5 @@
 
-# Vaxine Code of Conduct
+# ElectricSQL Code of Conduct
 
 ## Our Pledge
 
